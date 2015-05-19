@@ -5,14 +5,12 @@
 - transition : default
 
 ***
-
 ### What is FsReveal?
 
 - Generates [reveal.js](http://lab.hakim.se/reveal-js/#/) presentation from [markdown](http://daringfireball.net/projects/markdown/)
 - Utilizes [FSharp.Formatting](https://github.com/tpetricek/FSharp.Formatting) for markdown parsing
 
 ***
-
 ### Reveal.js
 
 - A framework for easily creating beautiful presentations using HTML.
@@ -125,3 +123,21 @@ $ \Pr(A|B)=\frac{\Pr(B|A)\Pr(A)}{\Pr(B|A)\Pr(A)+\Pr(B|\neg A)\Pr(\neg A)} $
 ![When your regular expression returns what you expect](http://www.topito.com/wp-content/uploads/2013/01/code-03.gif)
 
 *from [The Reality of a Developer's Life - in GIFs, Of Course](http://server.dzone.com/articles/reality-developers-life-gifs)*
+
+***
+- data-background : images/fsharp128.png
+- data-background-repeat : repeat
+- data-background-size : 100px
+
+### Slides Properties
+
+- http://fsprojects.github.io/FsReveal/formatting.html#Slide-properties
+
+***
+
+### Speaker Notes
+
+- Press `s` to see a speaker note
+
+' this is a speaker note
+' and here we have another one
